@@ -1,0 +1,19 @@
+p {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+div#id {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+p.class.cooler {
+    font-size: 24px;
+}
+
+div#another {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
